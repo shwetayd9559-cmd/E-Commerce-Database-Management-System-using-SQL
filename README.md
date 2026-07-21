@@ -27,8 +27,6 @@ The project also includes SQL queries to perform business analysis and generate 
 
 ---
 
----
-
 ## 🗄️ Database Tables
 
 ### Customers
@@ -204,6 +202,7 @@ COUNT(Order_ID) AS Total_Orders
 FROM Orders
 GROUP BY Customer_ID
 ORDER BY Total_Orders DESC;
+---
 ---
 
 ## 📈 Key Business Insights
