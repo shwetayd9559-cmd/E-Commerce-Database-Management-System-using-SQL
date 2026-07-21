@@ -279,36 +279,36 @@ Through this project, I learned:
 
 ## Database Schema
 
-![Database Schema]<img width="806" height="591" alt="ER_diadgram" src="https://github.com/user-attachments/assets/b1ed0719-3adc-41fa-8ffd-b51c6b728232" />
+<img width="806" height="591" alt="ER_diadgram" src="https://github.com/user-attachments/assets/b1ed0719-3adc-41fa-8ffd-b51c6b728232" />
 
 ---
 
 ## Customers Table
 
-![Customers Table]<img width="1366" height="768" alt="customer_table" src="https://github.com/user-attachments/assets/403dd9e8-3358-4bc2-bcf9-94fae75ab801" />
+<img width="1366" height="768" alt="customer_table" src="https://github.com/user-attachments/assets/403dd9e8-3358-4bc2-bcf9-94fae75ab801" />
 
 
 ---
 
 ## Products Table
 
-![Products Table]<img width="1366" height="768" alt="products_table" src="https://github.com/user-attachments/assets/3c906970-b97d-4242-b0e3-00c4af4a85d8" />
+<img width="1366" height="768" alt="products_table" src="https://github.com/user-attachments/assets/3c906970-b97d-4242-b0e3-00c4af4a85d8" />
 
 
 ---
 
 ## Orders Table
-![Orders table]<img width="1366" height="768" alt="orders_table" src="https://github.com/user-attachments/assets/9b217dfe-bf3c-4300-bfa1-d3003ab6bfac" />
+<img width="1366" height="768" alt="orders_table" src="https://github.com/user-attachments/assets/9b217dfe-bf3c-4300-bfa1-d3003ab6bfac" />
 
 ---
 
 ## Payment Table
 
-![Payments Table]<img width="1366" height="768" alt="payments_table" src="https://github.com/user-attachments/assets/ff6f1303-1b7d-4028-beac-ec02e7f971ba" />
+<img width="1366" height="768" alt="payments_table" src="https://github.com/user-attachments/assets/ff6f1303-1b7d-4028-beac-ec02e7f971ba" />
 
 ## Total Revenue Query
 
-![Total Revenue]<img width="1366" height="768" alt="query1" src="https://github.com/user-attachments/assets/499177a8-8ef6-47a0-9537-10c68514cdc5" />
+<img width="1366" height="768" alt="query1" src="https://github.com/user-attachments/assets/499177a8-8ef6-47a0-9537-10c68514cdc5" />
 
 
 ---
@@ -329,7 +329,7 @@ Through this project, I learned:
 
 <img width="1366" height="768" alt="query4" src="https://github.com/user-attachments/assets/666b48d7-3970-4e0e-b04e-6a5551c887a8" />
 
----
+
 
 ## Best selling Products
 
