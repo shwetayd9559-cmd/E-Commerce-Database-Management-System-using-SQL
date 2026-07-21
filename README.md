@@ -204,8 +204,6 @@ COUNT(Order_ID) AS Total_Orders
 FROM Orders
 GROUP BY Customer_ID
 ORDER BY Total_Orders DESC;
-```
-
 ---
 
 ## 📈 Key Business Insights
@@ -221,7 +219,7 @@ The SQL queries provide valuable insights, such as:
 - Track order status.
 - Analyze monthly sales trends.
 - Identify low-performing products.
-
+---
 
 ## 🎓 Learning Outcomes
 
@@ -264,7 +262,7 @@ Through this project, I learned:
 - Implement User Authentication
 - Expand Inventory Management
 
-
+---
 ### Skills
 
 - SQL
@@ -276,8 +274,3 @@ Through this project, I learned:
 - Power BI
 - Tableau
 
----
-
-## ⭐ If you found this project helpful
-
-If you like this project, please consider giving it a ⭐ on GitHub.
