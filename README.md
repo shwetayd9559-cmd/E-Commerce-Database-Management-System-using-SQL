@@ -1,20 +1,23 @@
 🛒 E-Commerce Database Management System using SQL
+
 📌 Project Overview
 
 This project demonstrates the design and implementation of an E-Commerce Database Management System using MySQL. The database is designed to manage customers, products, orders, order items, and payments while maintaining proper relationships using primary and foreign keys.
-
 The project also includes SQL queries that generate valuable business insights from the stored data.
 
 🎯 Project Objectives
-Design a relational database for an e-commerce platform.
-Create normalized tables with proper relationships.
-Insert sample data into each table.
-Perform data analysis using SQL queries.
-Generate business insights from sales, customers, products, and payments.
+
+- Design a relational database for an e-commerce platform.
+- Create normalized tables with proper relationships.
+- Insert sample data into each table.
+- Perform data analysis using SQL queries.
+- Generate business insights from sales, customers, products, and payments.
+  
 🛠️ Technologies Used
-MySQL
-MySQL Workbench
-SQL
+
+- MySQL
+- MySQL Workbench
+- SQL
 
 🗂 Database Tables
 
