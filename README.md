@@ -203,9 +203,8 @@ FROM Orders
 GROUP BY Customer_ID
 ORDER BY Total_Orders DESC;
 ---
----
 
-## 📈 Key Business Insights
+### 📈 Key Business Insights
 
 The SQL queries provide valuable insights, such as:
 
